@@ -11,7 +11,7 @@
 const caracteres = ["A", "P", "H", "S", "D"];
 
 
-const codigoCorreto = "44112";
+const codigoCorreto = "74112";
 
 // >>> ONDE ALTERAR A PÁGINA DE DESTINO <<<
 // Caminho relativo: o arquivo precisa estar na mesma pasta deste segredo.html.
