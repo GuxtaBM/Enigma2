@@ -15,7 +15,7 @@ const codigoCorreto = "44112";
 
 // >>> ONDE ALTERAR A PÁGINA DE DESTINO <<<
 // Caminho relativo: o arquivo precisa estar na mesma pasta deste segredo.html.
-const paginaDestino = "revelacao.html";
+const paginaDestino = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwE%3D";
 
 const CONFIG = {
   mensagemErro:       "O coração parece não aceitar tal resposta.",
