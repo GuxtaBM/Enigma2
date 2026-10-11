@@ -203,7 +203,7 @@ function acertou() {
   el.mensagem.classList.remove("visivel");
   disparar(1);                                 // uma última batida forte
   el.cena.classList.add("partindo");
-  setTimeout(() => { window.location.href = www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1&pp=ygUIcmlja3JvbGygBwE%3D; }, CONFIG.atrasoRedirecionamento);
+  setTimeout(() => { window.location.href = paginaDestino; }, CONFIG.atrasoRedirecionamento);
 }
 
 // ---------------------------------------------------------------------
